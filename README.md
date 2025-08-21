@@ -3,9 +3,9 @@
 
 -----
 ## 내가 배우고 있는것 📖
-- <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB">,<img alt="Static Badge" src="https://img.shields.io/badge/Linux-%23FCC624">
+- <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB"> <img alt="Static Badge" src="https://img.shields.io/badge/Linux-%23FCC624">
 
-- <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032">,<img alt="Static Badge" src="https://img.shields.io/badge/Github-%23181717">
+- <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032"> <img alt="Static Badge" src="https://img.shields.io/badge/Github-%23181717">
 ## 앞으로 더 많이 배우겠습니다 🥕
 -----
 ## 열심히 해서 취업 꼭 성공하겠습니다. 🐥
