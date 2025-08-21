@@ -6,9 +6,9 @@
 - Python, Linux
 - Git & Github
 ## 앞으로 더 많이 배우겠습니다 🥕
-- -----
+-----
 ## 열심히 해서 취업 꼭 성공하겠습니다. 🐥
-##                  꼭 성공할꺼야...
+꼭 성공할꺼야...
 
 <img width="480" height="452" alt="image" src="https://github.com/user-attachments/assets/16773574-dd89-42db-9173-03edccfb536b" />
 
